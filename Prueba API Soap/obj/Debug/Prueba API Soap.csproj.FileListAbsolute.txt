@@ -1,0 +1,7 @@
+C:\Users\jose-ramon.jimenez\source\repos\Prueba API Soap\Prueba API Soap\bin\Prueba API Soap.dll.config
+C:\Users\jose-ramon.jimenez\source\repos\Prueba API Soap\Prueba API Soap\bin\Prueba API Soap.dll
+C:\Users\jose-ramon.jimenez\source\repos\Prueba API Soap\Prueba API Soap\bin\Prueba API Soap.pdb
+C:\Users\jose-ramon.jimenez\source\repos\Prueba API Soap\Prueba API Soap\obj\Debug\Prueba API Soap.csproj.AssemblyReference.cache
+C:\Users\jose-ramon.jimenez\source\repos\Prueba API Soap\Prueba API Soap\obj\Debug\Prueba API Soap.csproj.CoreCompileInputs.cache
+C:\Users\jose-ramon.jimenez\source\repos\Prueba API Soap\Prueba API Soap\obj\Debug\Prueba API Soap.dll
+C:\Users\jose-ramon.jimenez\source\repos\Prueba API Soap\Prueba API Soap\obj\Debug\Prueba API Soap.pdb

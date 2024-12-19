@@ -1,0 +1,10 @@
+C:\Users\jose-ramon.jimenez\source\repos\Prueba API Soap\Cliente\bin\Debug\Cliente.exe.config
+C:\Users\jose-ramon.jimenez\source\repos\Prueba API Soap\Cliente\bin\Debug\Cliente.exe
+C:\Users\jose-ramon.jimenez\source\repos\Prueba API Soap\Cliente\bin\Debug\Cliente.pdb
+C:\Users\jose-ramon.jimenez\source\repos\Prueba API Soap\Cliente\obj\Debug\Cliente.csproj.AssemblyReference.cache
+C:\Users\jose-ramon.jimenez\source\repos\Prueba API Soap\Cliente\obj\Debug\Cliente.Form1.resources
+C:\Users\jose-ramon.jimenez\source\repos\Prueba API Soap\Cliente\obj\Debug\Cliente.Properties.Resources.resources
+C:\Users\jose-ramon.jimenez\source\repos\Prueba API Soap\Cliente\obj\Debug\Cliente.csproj.GenerateResource.cache
+C:\Users\jose-ramon.jimenez\source\repos\Prueba API Soap\Cliente\obj\Debug\Cliente.csproj.CoreCompileInputs.cache
+C:\Users\jose-ramon.jimenez\source\repos\Prueba API Soap\Cliente\obj\Debug\Cliente.exe
+C:\Users\jose-ramon.jimenez\source\repos\Prueba API Soap\Cliente\obj\Debug\Cliente.pdb

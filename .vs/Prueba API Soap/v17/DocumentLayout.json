@@ -1,0 +1,141 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jose-ramon.jimenez\\source\\repos\\Prueba API Soap\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B28DD94-673E-4C8C-807D-CDDC9155A4C7}|Cliente\\Cliente.csproj|C:\\Users\\jose-ramon.jimenez\\source\\repos\\Prueba API Soap\\cliente\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B28DD94-673E-4C8C-807D-CDDC9155A4C7}|Cliente\\Cliente.csproj|solutionrelative:cliente\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45FC1501-E771-4CC4-BB82-31E061D61D9D}|Prueba API Soap\\Prueba API Soap.csproj|c:\\users\\jose-ramon.jimenez\\source\\repos\\prueba api soap\\prueba api soap\\iservice1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45FC1501-E771-4CC4-BB82-31E061D61D9D}|Prueba API Soap\\Prueba API Soap.csproj|solutionrelative:prueba api soap\\iservice1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B28DD94-673E-4C8C-807D-CDDC9155A4C7}|Cliente\\Cliente.csproj|c:\\users\\jose-ramon.jimenez\\source\\repos\\prueba api soap\\cliente\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B28DD94-673E-4C8C-807D-CDDC9155A4C7}|Cliente\\Cliente.csproj|solutionrelative:cliente\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B28DD94-673E-4C8C-807D-CDDC9155A4C7}|Cliente\\Cliente.csproj|c:\\users\\jose-ramon.jimenez\\source\\repos\\prueba api soap\\cliente\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B28DD94-673E-4C8C-807D-CDDC9155A4C7}|Cliente\\Cliente.csproj|solutionrelative:cliente\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B28DD94-673E-4C8C-807D-CDDC9155A4C7}|Cliente\\Cliente.csproj|C:\\Users\\jose-ramon.jimenez\\source\\repos\\Prueba API Soap\\cliente\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3B28DD94-673E-4C8C-807D-CDDC9155A4C7}|Cliente\\Cliente.csproj|solutionrelative:cliente\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45FC1501-E771-4CC4-BB82-31E061D61D9D}|Prueba API Soap\\Prueba API Soap.csproj|C:\\Users\\jose-ramon.jimenez\\source\\repos\\Prueba API Soap\\prueba api soap\\service1.svc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45FC1501-E771-4CC4-BB82-31E061D61D9D}|Prueba API Soap\\Prueba API Soap.csproj|solutionrelative:prueba api soap\\service1.svc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{99b8fa2f-ab90-4f57-9c32-949f146f1914}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\jose-ramon.jimenez\\source\\repos\\Prueba API Soap\\Cliente\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Cliente\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\jose-ramon.jimenez\\source\\repos\\Prueba API Soap\\Cliente\\Form1.Designer.cs",
+              "RelativeToolTip": "Cliente\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T11:06:32.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jose-ramon.jimenez\\source\\repos\\Prueba API Soap\\Cliente\\Program.cs",
+              "RelativeDocumentMoniker": "Cliente\\Program.cs",
+              "ToolTip": "C:\\Users\\jose-ramon.jimenez\\source\\repos\\Prueba API Soap\\Cliente\\Program.cs",
+              "RelativeToolTip": "Cliente\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T11:06:27.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IService1.cs",
+              "DocumentMoniker": "C:\\Users\\jose-ramon.jimenez\\source\\repos\\Prueba API Soap\\Prueba API Soap\\IService1.cs",
+              "RelativeDocumentMoniker": "Prueba API Soap\\IService1.cs",
+              "ToolTip": "C:\\Users\\jose-ramon.jimenez\\source\\repos\\Prueba API Soap\\Prueba API Soap\\IService1.cs",
+              "RelativeToolTip": "Prueba API Soap\\IService1.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T09:45:32.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\jose-ramon.jimenez\\source\\repos\\Prueba API Soap\\Cliente\\Form1.cs",
+              "RelativeDocumentMoniker": "Cliente\\Form1.cs",
+              "ToolTip": "C:\\Users\\jose-ramon.jimenez\\source\\repos\\Prueba API Soap\\Cliente\\Form1.cs",
+              "RelativeToolTip": "Cliente\\Form1.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAD4vxAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T10:53:01.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\jose-ramon.jimenez\\source\\repos\\Prueba API Soap\\Cliente\\Form1.cs",
+              "RelativeDocumentMoniker": "Cliente\\Form1.cs",
+              "ToolTip": "C:\\Users\\jose-ramon.jimenez\\source\\repos\\Prueba API Soap\\Cliente\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Cliente\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T10:48:55.813Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Service1.svc.cs",
+              "DocumentMoniker": "C:\\Users\\jose-ramon.jimenez\\source\\repos\\Prueba API Soap\\Prueba API Soap\\Service1.svc.cs",
+              "RelativeDocumentMoniker": "Prueba API Soap\\Service1.svc.cs",
+              "ToolTip": "C:\\Users\\jose-ramon.jimenez\\source\\repos\\Prueba API Soap\\Prueba API Soap\\Service1.svc.cs",
+              "RelativeToolTip": "Prueba API Soap\\Service1.svc.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T09:44:58.114Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
